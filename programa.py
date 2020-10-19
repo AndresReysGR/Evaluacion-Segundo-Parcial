@@ -11,7 +11,6 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
 
 
-
 principal = Tk()
 principal.title("Declarar el audio")
 principal.geometry("800x600")
